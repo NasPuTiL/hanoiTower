@@ -1,6 +1,6 @@
 Hanoi Tower
-Program count the smallest number number  of moves.
+Program count the smallest number of moves to move rollers between poles.
 
+Field "numberOfRollers" contain cumber of rollers.
 
-Field numberOfRollers contain cumber of rollers
 
